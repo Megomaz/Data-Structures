@@ -1,4 +1,4 @@
-package stacksqueues;
+package Stacks_And_Queues;
 
 import interfaces.Stack;
 

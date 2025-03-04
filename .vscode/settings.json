@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "Stacks_And_Queues",
+        "Stacks & Queues",
+        "Queue & Enque",
+        "Arrays & Linked Lists",
+        "Queue_Enque"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
